@@ -1,6 +1,6 @@
 cask "prismray-lite" do
-  version "1.0.0"
-  sha256 "0b9a14ad622ddb8ba36a64db2356f987469b2f8585c708ef5ecf54ae822d7e9e"
+  version "1.0.1"
+  sha256 "3eca86ed9956668a8761d8321dd8a36a4bb230d417ce92072e2ddcf36fb26fba"
 
   url "https://github.com/CRACKRAMMER/PrismRay/releases/download/v#{version}/prismray-macos-arm64-lite.dmg"
   name "PrismRay"
